@@ -1,8 +1,8 @@
-# Azure Container Registry demonstration
+# Azure Container Instances demonstration
 
 ## Introduction
 
-Demonstration of running a statefull application within the Azure Container Registry.
+Demonstration of running a stateful application within the Azure Container Instances.
 
 ## Logic
 
