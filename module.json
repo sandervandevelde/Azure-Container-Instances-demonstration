@@ -2,7 +2,7 @@
     "$schema-version": "0.0.1",
     "description": "",
     "image": {
-        "repository": "svelde/console-module",
+        "repository": "mycontainerregistrysvdv.azurecr.io/console-module",
         "tag": {
             "version": "0.0.1",
             "platforms": {
