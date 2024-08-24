@@ -23,7 +23,7 @@ Please add these two variables to have the experience.
 
 ## Blog post
 
-The full story of this container can be found at https://blog.vandevelde-online.com/ 
+The full story of this container can be found at [this blog post](https://sandervandevelde.wordpress.com/2024/08/24/getting-started-with-azure-container-instances/). 
 
 ## MIT License
 
